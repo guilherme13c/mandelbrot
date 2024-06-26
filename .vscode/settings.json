@@ -1,0 +1,15 @@
+{
+	"files.associations": {
+		"*.pl": "prolog",
+		"*.rmd": "markdown",
+		"*.in": "plain text",
+		"*.html": "html",
+		"**/templates/*.html": "django-html",
+		"**/templates/*": "django-txt",
+		"**/requirements{/**,*}.{txt,in}": "pip-requirements",
+		"*.h": "cpp",
+		"*.cpp": "cpp",
+		"*.asm": "asm-intel-x86-generic",
+		"cmath": "cpp"
+	}
+}
